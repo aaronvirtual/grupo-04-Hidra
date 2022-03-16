@@ -45,3 +45,8 @@
 4. Lavar el cilantro y separar las hojas de los tallos, escoger algunos tallos delgados.
 5. El pescado cocido se debe desmenuzar.
 6. Tomar un poco del pescado para  licuarlo con el cilantro, algunos camarones, algunas almejas y un poco de pescado, cebolla y ajo. Moler finamente.
+7. En una olla freír un poco de cebolla y unos 2 dientes de ajo con aceite de oliva.
+8. Vertir la mezcla de la licuadora y el caldo sobrante del pescado, cuando esté a punto de hervir añadir los camarones, ostiones, pescado y almejas. Sazonar y dejar hervir, y listo!
+
+
+### *Servir en un plato hondo con limones y acompañar con una cerveza fría.*

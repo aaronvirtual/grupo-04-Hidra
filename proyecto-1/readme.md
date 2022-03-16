@@ -1,4 +1,4 @@
-<div align="left"> <img src= "imagenes/gourmet.png" width="100"> 
+<div align="right"> <img src= "imagenes/gourmet.png" width="100"> 
 
 <div align="center">
 

@@ -19,7 +19,7 @@
 
 </p>
 
-## *Esta receta pasada por generaciones en la familia Noriega, contiene los sabores de mar, mezclados con los aromas de las hierbas mexicanas tan representativas en todo el mundo.*
+## *Esta receta transmitida por generaciones en la familia Noriega, contiene los sabores de mar, mezclados con los aromas de las hierbas mexicanas tan representativas en todo el mundo.*
 
 ### *Hoy traemos para su mesa esa delicia gourmet.*
 

@@ -1,3 +1,5 @@
+<div align="left"> <img src=”imagenes/gourmet.png" width="70"> 
+
 <div align="center">
 
 # BIENVENIDOS
@@ -7,7 +9,7 @@
 <p align="center">
 
 
-<img src="Imagenes/sopa verde mariscos.jpg" width="200">
+<img src="imagenes/sopa verde mariscos.jpg" width="200">
 
 
 </p>

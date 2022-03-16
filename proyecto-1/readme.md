@@ -66,7 +66,7 @@
 
 <div align="center"> 
 
-<img src="imagenes/caldoychela.jpg" width="70">
+<img src="imagenes/caldoychela.jpg" width="200">
 
 
 <p align="center">

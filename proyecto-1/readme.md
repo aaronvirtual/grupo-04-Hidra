@@ -1,4 +1,4 @@
-<div align="left"> <img src= "imagenes/gourmet.png" width="70"> 
+<div align="left"> <img src= "imagenes/gourmet.png" width="100"> 
 
 <div align="center">
 
@@ -60,13 +60,14 @@
 
 8. Vertir la mezcla de la licuadora y el caldo sobrante del pescado, cuando esté a punto de hervir añadir los camarones, ostiones, pescado y almejas. Sazonar y dejar hervir, y listo!
 
+<div align="center">
 
 ### *Servir en un plato hondo con limones y acompañar con una cerveza fría.*
 
 
 <div align="center"> 
 
-<img src="imagenes/caldoychela.jpg" width="200">
+<img src="imagenes/caldoychela.jpg" width="250">
 
 
 <p align="center">

@@ -31,6 +31,7 @@
 | 1 Kilo   | De pescado en trozos |
 
 </div>
+
 ### *Preparación*
 </div>
 
@@ -39,5 +40,8 @@
 </div>
 
 1. Poner a desinfectar el cilantro
-
 2. Lavar el pescado y el camarón
+3. Poner a cocer el pescado con la cebolla y 5 dientes de ajo, agua y sal.
+4. Lavar el cilantro y separar las hojas de los tallos, escoger algunos tallos delgados.
+5. El pescado cocido se debe desmenuzar.
+6. Tomar un poco del pescado para  licuarlo con el cilantro, algunos camarones, algunas almejas y un poco de pescado, cebolla y ajo. Moler finamente.

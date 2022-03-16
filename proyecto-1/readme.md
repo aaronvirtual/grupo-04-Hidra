@@ -31,3 +31,13 @@
 | 1 Kilo   | De pescado en trozos |
 
 </div>
+### *Preparación*
+</div>
+
+#### A continuación presentamos la serie de pasos que tenemos que seguir para preparar esta deliciosa  receta.
+
+</div>
+
+1. Poner a desinfectar el cilantro
+
+2. Lavar el pescado y el camarón

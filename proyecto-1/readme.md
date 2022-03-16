@@ -19,6 +19,11 @@
 
 </p>
 
+## *Esta receta pasada por generaciones en la familia Noriega, contiene los sabores de mar, mezclados con los aromas de las hierbas mexicanas tan representativas en todo el mundo.*
+
+### *Hoy traemos para su mesa esa delicia gourmet.*
+
+
 ### *Lista de Ingredientes*
 
 <div align="center">
@@ -38,11 +43,12 @@
 </div>
 
 ### *Preparación*
-</div>
+
+<div align="distributed">
 
 #### A continuación presentamos la serie de pasos que tenemos que seguir para preparar esta deliciosa  receta.
 
-</div>
+<div align="left">
 
 1. Poner a desinfectar el cilantro
 
